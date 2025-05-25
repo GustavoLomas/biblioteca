@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Sistema simples de gerenciamento de biblioteca desenvolvido para a disciplina de Tecnologias Emergentes. O projeto implementa operações básicas de CRUD (Create, Read, Update, Delete) para gerenciar livros em uma biblioteca.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
