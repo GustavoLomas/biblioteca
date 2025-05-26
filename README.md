@@ -1,23 +1,33 @@
 # Sistema de Biblioteca
 
-Um sistema moderno de gerenciamento de biblioteca desenvolvido como projeto acadêmico para a faculdade. Este projeto demonstra a implementação de um sistema completo utilizando tecnologias modernas como React, TypeScript, Node.js e MongoDB.
+Um sistema moderno de gerenciamento de biblioteca desenvolvido como projeto acadêmico para a disciplina de Tecnologias Emergentes. Este projeto implementa um CRUD completo utilizando tecnologias modernas como React, TypeScript, Node.js e MongoDB.
 
 ## 📚 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte do curso de graduação, com o objetivo de demonstrar competências em:
+Este projeto foi desenvolvido como parte da disciplina de Tecnologias Emergentes, com o objetivo de criar uma aplicação funcional que demonstre as competências em:
+- Desenvolvimento de CRUD completo (Create, Read, Update, Delete)
+- Persistência de dados em banco de dados
 - Desenvolvimento Full Stack
-- Arquitetura de Software
-- Boas práticas de programação
-- Testes automatizados
-- Documentação de software
+- Utilização de tecnologias emergentes do mercado
+- Boas práticas de programação e documentação
 
 ## 👨‍💻 Autor
 
 **Gustavo Lomas**
-- Projeto desenvolvido para disciplina acadêmica
-- Curso: [Nome do Curso]
-- Instituição: [Nome da Instituição]
+- Projeto desenvolvido para a disciplina de Tecnologias Emergentes
+- Disciplina: Tecnologias Emergentes
+- Curso: Análise e Desenvolvimento de Sistemas
 - Ano: 2024
+
+## 🎯 Objetivos do Projeto
+
+Este projeto atende aos requisitos da disciplina através de:
+- ✅ CRUD completo de livros
+- ✅ Persistência em banco de dados (MongoDB)
+- ✅ Interface moderna e responsiva
+- ✅ Documentação completa
+- ✅ Testes automatizados
+- ✅ Boas práticas de desenvolvimento
 
 ## 🚀 Tecnologias
 
