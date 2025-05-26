@@ -1,6 +1,23 @@
 # Sistema de Biblioteca
 
-Um sistema moderno de gerenciamento de biblioteca desenvolvido com React, TypeScript, Node.js e MongoDB.
+Um sistema moderno de gerenciamento de biblioteca desenvolvido como projeto acadêmico para a faculdade. Este projeto demonstra a implementação de um sistema completo utilizando tecnologias modernas como React, TypeScript, Node.js e MongoDB.
+
+## 📚 Sobre o Projeto
+
+Este projeto foi desenvolvido como parte do curso de graduação, com o objetivo de demonstrar competências em:
+- Desenvolvimento Full Stack
+- Arquitetura de Software
+- Boas práticas de programação
+- Testes automatizados
+- Documentação de software
+
+## 👨‍💻 Autor
+
+**Gustavo Lomas**
+- Projeto desenvolvido para disciplina acadêmica
+- Curso: [Nome do Curso]
+- Instituição: [Nome da Instituição]
+- Ano: 2024
 
 ## 🚀 Tecnologias
 
