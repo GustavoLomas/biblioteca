@@ -1,6 +1,6 @@
-# Cronograma do Projeto
+# Cronograma do Projeto (inicio 12/05 e término 25/05)
 
-## ✅ Fase 1: Configuração Inicial (Concluído)
+## ✅ Fase 1: Configuração Inicial - 12/05 a 18/05 - (Concluído)
 - ✅ Criação do repositório
 - ✅ Configuração do ambiente de desenvolvimento
 - ✅ Inicialização do projeto frontend com React e TypeScript
@@ -8,7 +8,7 @@
 - ✅ Configuração do MongoDB
 - ✅ Configuração dos testes com Jest
 
-## ✅ Fase 2: Desenvolvimento do Backend (Concluído)
+## ✅ Fase 2: Desenvolvimento do Backend - 19/05 a 24/05 - (Concluído)
 - ✅ Criação do modelo de dados (Book)
 - ✅ Implementação dos controllers
 - ✅ Desenvolvimento das rotas da API
@@ -16,7 +16,7 @@
 - ✅ Implementação dos testes automatizados
 - ✅ Documentação da API
 
-## ✅ Fase 3: Desenvolvimento do Frontend (Concluído)
+## ✅ Fase 3: Desenvolvimento do Frontend - 19/05 a 24/05 - (Concluído)
 - ✅ Configuração do Material-UI
 - ✅ Criação dos componentes base
 - ✅ Implementação do layout responsivo
@@ -30,7 +30,7 @@
 - ✅ Implementação do tema personalizado
 - ✅ Adição de animações e transições
 
-## ✅ Fase 4: Finalização (Concluído)
+## ✅ Fase 4: Finalização - 25/05 - (Concluído)
 - ✅ Testes e correções de bugs
 - ✅ Otimização de performance
 - ✅ Documentação do projeto
@@ -61,5 +61,3 @@
 - Integração com API: Completa
 
 ---
-
-*Última atualização: 29/03/2024* 
