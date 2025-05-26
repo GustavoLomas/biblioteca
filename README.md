@@ -13,11 +13,11 @@ Este projeto foi desenvolvido como parte da disciplina de Tecnologias Emergentes
 
 ## 👨‍💻 Autor
 
-**Gustavo Lomas**
+**Gustavo Brentan Lomas**
 - Projeto desenvolvido para a disciplina de Tecnologias Emergentes
 - Disciplina: Tecnologias Emergentes
 - Curso: Análise e Desenvolvimento de Sistemas
-- Ano: 2024
+- Ano: 2025
 
 ## 🎯 Objetivos do Projeto
 
